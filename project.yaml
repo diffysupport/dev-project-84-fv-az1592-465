@@ -1,5 +1,5 @@
 basic:
-    name: 'Pagac Ltd'
+    name: Klein-Stracke
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
